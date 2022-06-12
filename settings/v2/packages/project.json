@@ -1,0 +1,35 @@
+{
+  "__version__": "1.0.1",
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "selfPlane"
+      },
+      {
+        "index": 2,
+        "name": "enemyPlane"
+      },
+      {
+        "index": 3,
+        "name": "selfBullet"
+      },
+      {
+        "index": 4,
+        "name": "enemyBullet"
+      },
+      {
+        "index": 5,
+        "name": "gift"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 52,
+      "2": 10,
+      "3": 28,
+      "4": 10,
+      "5": 2
+    }
+  }
+}
